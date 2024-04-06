@@ -1,14 +1,14 @@
 # NASZ ZESPÓŁ
 ### *Skład*
 * Julia Łuszkiewicz
-*Jakub Marciniak
+* Jakub Marciniak
 * Piotr Kowalczyk 
 
 ### **Nazewnictwo zadań**
-Gałęzie będą nazywane zgodnie z formatem *zadanie/zad*_nr_zadania_**Imię**
+Gałęzie będą nazywane zgodnie z formatem *zadanie/zad* nr.zadania **Imię**
 
-##Co tutaj się będzie znajdować
-**_W tym repo będą się pojawiać_**~~kotki~~*zadania na zajęcia z inżynierii oprogramowania*
+## Co tutaj się będzie znajdować
+** W tym repo będą się pojawiać ** ~~kotki~~ *zadania na zajęcia z inżynierii oprogramowania*
 
 #### Powszechnie znane książki ###
 
