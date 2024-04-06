@@ -11,4 +11,4 @@ def inch_to_cm(inch: float):
         print("Error: Parameter is not the correct type")
 
 def km_to_mile(km: float):
-    return km * '1.60934'
+    return km / 1.60934
