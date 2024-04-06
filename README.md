@@ -8,7 +8,7 @@
 Gałęzie będą nazywane zgodnie z formatem *zadanie/zad* nr.zadania **Imię**
 
 ## Co tutaj się będzie znajdować
-** W tym repo będą się pojawiać ** ~~kotki~~ *zadania na zajęcia z inżynierii oprogramowania*
+**W tym repo będą się pojawiać** ~~kotki~~ *zadania na zajęcia z inżynierii oprogramowania*
 
 #### Powszechnie znane książki ###
 
